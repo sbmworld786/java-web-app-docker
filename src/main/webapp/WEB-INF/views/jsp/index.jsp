@@ -3,7 +3,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Maven + Spring MVC</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link href="images/facebook.jpg" rel="icon">
+	
+<title>Facebook</title>
 
 <spring:url value="/resources/core/css/hello.css" var="coreCss" />
 <spring:url value="/resources/core/css/bootstrap.min.css" var="bootstrapCss" />
@@ -14,7 +17,7 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
 	<div class="container">
 		<div class="navbar-header">
-			<a class="navbar-brand" href="#">Project Name</a>
+			<a class="navbar-brand" href="#">Facebook Project</a>
 		</div>
 	</div>
 </nav>
@@ -40,15 +43,15 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Mithun Technologies, Marathahalli, Banglore.</h2>
-			<h3>Contact @ +91-8296242028 ,+91-9980923226</h3>
+			<h2>Welcome To the facebook website.</h2>
+			<h3>facebook</h3>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; Mithun Technologies 2019</p>
+		<p>&copy; www.facebook.com</p>
 	</footer>
 </div>
 
